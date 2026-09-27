@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56509d8f-3b9c-4df4-849f-fdcb8648c995" name="Changes" comment="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore" />
+    <list default="true" id="56509d8f-3b9c-4df4-849f-fdcb8648c995" name="Changes" comment="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore">
+      <change afterPath="$PROJECT_DIR$/.gitignore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sudenaze"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sudenaze/eeg-motor-imagery.git",
+    "accountId": "eda929eb-1176-4d8f-81fe-621854339a62"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -87,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790535082315</updated>
-      <workItem from="1790535083207" duration="3244000" />
+      <workItem from="1790535083207" duration="4665000" />
     </task>
     <task id="LOCAL-00001" summary="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore">
       <option name="closed" value="true" />
@@ -97,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790542130882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore">
+      <option name="closed" value="true" />
+      <created>1790542377262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790542377262</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
