@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56509d8f-3b9c-4df4-849f-fdcb8648c995" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eeg-motor-imagery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="56509d8f-3b9c-4df4-849f-fdcb8648c995" name="Changes" comment="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,12 +87,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790535082315</updated>
-      <workItem from="1790535083207" duration="2850000" />
+      <workItem from="1790535083207" duration="3244000" />
     </task>
+    <task id="LOCAL-00001" summary="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore">
+      <option name="closed" value="true" />
+      <created>1790542130882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790542130882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="İlk proje kurulumu: CSP+LDA baseline modeli, README ve .gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/eeg_motor_imagery$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1790536080834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
